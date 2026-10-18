@@ -2,30 +2,10 @@
 
 ChatGPT clone with added features
 
-# Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPrasadBroo%2FChatGPT&install-command=npm%20install&output-directory=dist)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/PrasadBroo/ChatGPT)
-
-# Demo
-
-<img src="demo/demo.gif" width="700px" alt="demo gif"/>
-
 ## Features
 
-- Multiple chats completions simultaneously😲
-- Send chat with/without history 🧐
-- Choose model from a variety of GPT-3/GPT-4 models 😃
-- Stores your chats in local storage 👀
-- Same user interface as the original ChatGPT 📺
-- Custom chat titles 💬
-- Export/Import your chats 🔼🔽
+| Run several chat requests at the same time | Choose whether each message includes the earlier conversation or starts fresh | Pick from a range of GPT-3 and GPT-4 models | Chats are saved in your browser’s local storage | A familiar interface modelled on ChatGPT | Rename any chat with a custom title | Export your chats to a file and import them back
 
-## To-Do
-
-- [x] Add DALL-E1 & DALL-E2 Image Generation Models
-- [x] Add Code Highlight
-- [ ] [Add ChatGPT Pre Made Prompts](https://github.com/f/awesome-chatgpt-prompts)
 ## Requirements
 
 - Node JS
@@ -57,12 +37,3 @@ npm install
 npm run dev
 ```
 
-## Contribution
-
-All contributions are welcome. Feel free to open an issue or create a pull request.
-
-<a href="https://www.buymeacoffee.com/prasadbro" target="_blank"><img src="./demo/bmac.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
-
-## Liscence
-
-[MIT](https://github.com/PrasadBroo/ChatGPT/blob/main/LICENSE)
